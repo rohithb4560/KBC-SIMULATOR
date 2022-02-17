@@ -1,0 +1,22 @@
+{Questions.map((item, index) => {
+        return (
+          <div>
+            <h1>Question: {index+1}</h1>
+            <h1>{item.question}</h1>
+            <div className="answers">
+              <button>{item.option1}</button>
+              <button>{item.option2}</button>
+              <button>{item.option3}</button>
+              <button>{item.option4}</button>
+            </div>
+          </div>
+        );
+      })}
+
+
+
+
+      <form>
+          <input type="text" placeholder="Enter your name..." />
+          <button>Enter</button>
+        </form>
