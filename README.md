@@ -12,3 +12,9 @@
 TechStack used - React,HTML,CSS,JavaScript
 
 Screenshots of the Game
+
+<h1>Technologies used</h1>
+ -> React
+ -> HTML
+ -> CSS
+ -> JavaScript
