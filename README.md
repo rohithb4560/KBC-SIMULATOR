@@ -1,4 +1,5 @@
- A simulator of popular television game show KON BANEGA CROREPATI, which is populary known as KBC.
+ <P>A simulator of popular television game show KON BANEGA CROREPATI,
+ which is populary known as KBC. This application provides real feeling of playing KBC</P>
 
  Game Link - 
   https://kbc-simulator1.firebaseapp.com/
