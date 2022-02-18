@@ -9,13 +9,11 @@
  3) Wrong answer ends the game and you will take home the total amount you won till the previos Question.
  4) Maximum you can earn is 1 crore.
 
-TechStack used - React,HTML,CSS,JavaScript
-
-Screenshots of the Game
 
 <h1>Technologies used</h1>
-<ul></ul>
+<ul>
  <li> React</li> 
  <li> HTML</li> 
  <li> CSS</li> 
- <li> J avaScript</li> 
+ <li> JavaScript</li> 
+ </ul>
